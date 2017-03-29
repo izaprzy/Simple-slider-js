@@ -1,1 +1,1 @@
-Simple-slider-js
+JavaScript Simple slider 

@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+
+.slider ul{
+    list-style: none;
+    height: 200px;
+    width: 400px;
+}
+
+.slider li {
+    display: none;
+}
+
+.slider .visible{
+    display: inline-block;
+    padding: 0;
+
+}
